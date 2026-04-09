@@ -1,7 +1,7 @@
 <!-- TUDO CENTRALIZADO -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=fff&center=true&vCenter=true&width=500&lines=I+am+Elisa+Judice!;14+Anos;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=fff&center=true&vCenter=true&width=500&lines=I+am+Elisa+Judice!;14+Years;" alt="Typing SVG" />
 
   ---
 
