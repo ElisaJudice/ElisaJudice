@@ -7,7 +7,7 @@
 
   ### About Me
 
-  - Estudante de programação
+  - Programming Student
   - Front End
 
   ---
