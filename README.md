@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- TUDO CENTRALIZADO -->
+<div align="center">
 
-<!--
-**ElisaJudice/ElisaJudice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+Elisa+Judice!;14+Anos;" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### About Me
+
+  - Computer Science student at **PUC Minas**
+  - Focused on **Computer Vision**
+
+  ---
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kaqyikmzu5yykws2uhp3gyyb3q&unique=true" />
+
+  ---
+
+  ### Find Me
+
+  <a href="https://linkedin.com/in/gabrielalderige">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/alderigecreative">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:galbyoficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
