@@ -7,26 +7,23 @@
 
   ### About Me
 
-  - Computer Science student at **PUC Minas**
-  - Focused on **Computer Vision**
+  - Estudante de programação
+  - Front End
 
   ---
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kaqyikmzu5yykws2uhp3gyyb3q&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ohi7eq457t7rcjbblfscf4t3jm&unique={true" />
 
   ---
 
   ### Find Me
 
-  <a href="https://linkedin.com/in/gabrielalderige">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="https://instagram.com/alderigecreative">
+  <a href="https://instagram.com/elisaa_judice15">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="mailto:galbyoficial@gmail.com">
+  <a href="mailto:elisajudiceferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
